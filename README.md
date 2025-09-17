@@ -4,7 +4,7 @@ A comprehensive data analytics platform for analyzing student performance and ge
 
 ## Live Demo
 
-🌐 [Access the Dashboard](student-analyticss.vercel.app)
+🌐 [Access the Dashboard](https://student-analyticss.vercel.app)
 
 
 
